@@ -1,4 +1,4 @@
-## Senior Data Scientist ##
+# Senior Data Scientist
 ### Technical skills ###
 Python , Generative AI, Pytorch, NLP, Computer Vision, Javascript, HTML
 
