@@ -11,7 +11,7 @@ Python , Generative AI, Pytorch, NLP, Computer Vision, Javascript, HTML , Neo4j
 - Worked on building client churn prediction algorithms.
 - Automated logs evaluation pipeline.
 
-### Software Engineer at Dassault Systemes (July 2014 - June 2017)
+#### Software Engineer at Dassault Systemes (July 2014 - June 2017)
 - Developed a new ASP.NET C# based Web Application for storing and managing Language Translation related bugs.
 - Worked on critical migration projects to reduce the dependency of product on third party software.
 - Fixed major software bugs in product and ensured smooth and timely delivery to the customer.
