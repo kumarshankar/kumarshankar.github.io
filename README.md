@@ -18,12 +18,12 @@ Fixed major software bugs in product and ensured smooth and timely delivery to t
 Delivered new functionalities such as filtering mechanisms and integration with CAD software.
 
 ### Achievements
-Patent on novel Peer Recommendation and value tracking algorithm under review by US patent office.
-Received Gartner GS&O Above and Beyond Q3 2023 award for delivering Call Summarization tool that enable 5000+ employees summarize their client calls.
-Received Gartner GS&O Above and Beyond Q4 2022 award for delivering Services Recommendation engine 
-Received most impactful project award in Q1 2023 for Recommendation engine
-Received Dassault Systemes Best Innovation Award for Bug Translation web application 
-Received National level Merit scholarship from AWES in Higher Secondary Education CBSE exams
+- Patent on novel Peer Recommendation and value tracking algorithm under review by US patent office.
+- Received Gartner GS&O Above and Beyond Q3 2023 award for delivering Call Summarization tool that enable 5000+ employees summarize their client calls.
+- Received Gartner GS&O Above and Beyond Q4 2022 award for delivering Services Recommendation engine 
+- Received most impactful project award in Q1 2023 for Recommendation engine
+- Received Dassault Systemes Best Innovation Award for Bug Translation web application 
+- Received National level Merit scholarship from AWES in Higher Secondary Education CBSE exams
 
 ### Education ###
 PGDBA from IIM Calcutta, IIT Kharagpur, ISI Kolkata  
