@@ -1,6 +1,6 @@
 # Senior Data Scientist
 
-Link to projects <a href="projects.md">Projects</a>
+Link to projects <a href="projects.html">Projects</a>
 
 ### Technical skills ###
 Python , Generative AI, Pytorch, NLP, Computer Vision, Javascript, HTML , Neo4j
