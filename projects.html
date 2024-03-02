@@ -1,4 +1,65 @@
-<h3>This page contains the various projects</h3>
-<h2>Pretraining a language model</h2>
-<h2>Supervised Fine Tuning the language model</h2>
-<h2>Aligning the language model through Direct Preference Optimization(DPO)</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LLM Pretraining: A Comprehensive Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            color: #555;
+        }
+        p {
+            color: #777;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>LLM Pretraining: A Comprehensive Guide</h1>
+
+    <h2>Data Collection</h2>
+    <p>Data collection for Large Language Models (LLMs) involves gathering a diverse and extensive corpus of text data from various sources such as books, articles, websites, and social media platforms. The aim is to create a dataset that covers a wide range of topics and writing styles.</p>
+
+    <h2>Data Processing</h2>
+    <p>Once collected, the raw text data undergoes preprocessing steps such as tokenization, lowercasing, and removing special characters. Additionally, techniques like sentence splitting and data augmentation may be employed to enhance the quality and diversity of the dataset.</p>
+
+    <h2>Model Architecture Selection</h2>
+    <p>Choosing the right model architecture is crucial for LLM pretraining. Options include transformer-based architectures like BERT, GPT, and T5. Factors to consider include the size of the model, computational resources available, and the specific task the model will be fine-tuned for.</p>
+
+    <h2>Loss Function Selection</h2>
+    <p>The choice of loss function depends on the pretraining objective. Common choices include masked language modeling (MLM) loss for BERT-style models and autoregressive (AR) loss for autoregressive models like GPT. The loss function is designed to encourage the model to learn meaningful representations of the input text.</p>
+
+    <h2>Model Training</h2>
+    <p>During pretraining, the selected model architecture is trained on the processed data using a large amount of computational resources. This involves iterative optimization of the model parameters using techniques like stochastic gradient descent (SGD) or its variants.</p>
+
+    <h2>Model Training Process Monitoring using Tensorboard</h2>
+    <p>Tensorboard is a powerful tool for visualizing and monitoring the training process of deep learning models. It provides real-time insights into metrics such as loss, learning rate, and evaluation scores. By monitoring these metrics, researchers can track the progress of the pretraining process and identify potential issues or areas for improvement.</p>
+
+    <h2>Tensorboard Training Metrics to Look at During the Pretraining Process</h2>
+    <p>Some key training metrics to monitor during LLM pretraining include:</p>
+    <ul>
+        <li><code>Loss:</code> Monitoring the decrease in training loss indicates that the model is learning to better predict the masked tokens or generate text.</li>
+        <li><code>Perplexity:</code> Perplexity measures how well the model predicts the next token in the sequence. Lower perplexity values indicate better model performance.</li>
+        <li><code>Learning Rate:</code> Monitoring the learning rate helps ensure that the model converges effectively during training. Adjustments to the learning rate may be necessary based on the observed training dynamics.</li>
+        <li><code>Evaluation Scores:</code> Periodically evaluating the model on held-out validation data helps assess its generalization performance and identify potential overfitting.</li>
+    </ul>
+
+    <h2>Model Evaluation</h2>
+    <p>Once pretraining is complete, the trained model is evaluated on downstream tasks to assess its performance and generalization capabilities. This involves fine-tuning the model on task-specific datasets and evaluating metrics such as accuracy, F1 score, or BLEU score, depending on the nature of the task.</p>
+
+    <p>Overall, successful LLM pretraining requires careful consideration of data collection, processing, model selection, loss function design, and training process monitoring. By following best practices and leveraging tools like Tensorboard, researchers can achieve state-of-the-art performance on a wide range of natural language processing tasks.</p>
+
+</body>
+</html>
